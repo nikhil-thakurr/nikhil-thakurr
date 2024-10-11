@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikhil Thakur</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" width="400" src="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7" alt="coding" />
+<img align="right" width="400" src="[![image](https://github.com/user-attachments/assets/657f0529-f074-4d83-9406-41fb1b4836ac)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNvMW1iZnFhazI3NzVjMDQ1eW5zYjlzNWw4ZHY4YzV4aHF0cnZuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp)
+" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-thakurr&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-thakurr" /> </p>
 
