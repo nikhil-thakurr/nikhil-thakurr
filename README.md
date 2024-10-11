@@ -1,29 +1,6 @@
 Hello, I'm Nikhil Thakur 👋
 About Me 🚀
 I'm a passionate developer with a love for C++ and JavaScript. My journey in software development has been nothing short of exhilarating! Every day, I'm amazed by the endless possibilities this field offers.
-cppCopywhile (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-What I'm Up To 💻
-🔍 Currently, I'm on a mission to level up my software knowledge. I'm a firm believer in the power of continuous learning and staying on the cutting edge of tech.
-🌱 Always exploring new technologies and best practices in software development.
-Let's Talk! 💬
-I'm always up for a good chat about:
-
-🏋️ Fitness and workout routines
-🖥️ Software development techniques
-🌟 Anything tech-related!
-
-Don't hesitate to reach out if you want to discuss these topics or collaborate on a project!
-Fun Fact 🎭
-Here's a little secret: I didn't plan on venturing into the software world initially. But now that I'm here, I absolutely love it! It's amazing how life guides us to unexpected passions. Who knows where your journey might take you?
-Get in Touch 📫
-
-
-Remember: The only bad question is the one you don't ask. So, fire away!
 
 
 ## 🌐 Socials:
