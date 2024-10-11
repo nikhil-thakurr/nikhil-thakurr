@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Thakur</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" />
+<img align="right" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNvMW1iZnFhazI3NzVjMDQ1eW5zYjlzNWw4ZHY4YzV4aHF0cnZuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp)" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-thakurr&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-thakurr" /> </p>
 
