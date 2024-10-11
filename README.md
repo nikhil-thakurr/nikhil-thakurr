@@ -15,7 +15,9 @@ Let's Talk! 💬
 I'm always up for a good chat about:
 
 🏋️ Fitness and workout routines
+
 🖥️ Software development techniques
+
 🌟 Anything tech-related!
 
 Don't hesitate to reach out if you want to discuss these topics or collaborate on a project!
