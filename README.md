@@ -1,16 +1,16 @@
 Hello, I'm Nikhil Thakur 👋
 
-About Me 🚀
+<b>About Me 🚀 :</b>
 
 I'm a passionate developer with a love for C++ and JavaScript. My journey in software development has been nothing short of exhilarating! Every day, I'm amazed by the endless possibilities this field offers.
 
 
-What I'm Up To 💻
+What I'm Up To 💻 :
 
 🔍 Currently, I'm on a mission to level up my software knowledge. I'm a firm believer in the power of continuous learning and staying on the cutting edge of tech.
 🌱 Always exploring new technologies and best practices in software development.
 
-Let's Talk! 💬
+Let's Talk! 💬 :
 
 I'm always up for a good chat about:
 
@@ -20,9 +20,9 @@ I'm always up for a good chat about:
 
 🌟 Anything tech-related!
 
-Don't hesitate to reach out if you want to discuss these topics or collaborate on a project!
+Don't hesitate to reach out if you want to discuss these topics or collaborate on a project! 
 
-Fun Fact 🎭
+Fun Fact 🎭 : 
 
 Here's a little secret: I didn't plan on venturing into the software world initially. But now that I'm here, I absolutely love it! It's amazing how life guides us to unexpected passions. Who knows where your journey might take you?
 
