@@ -10,6 +10,9 @@ What I'm Up To 💻 :
 🔍 Currently, I'm on a mission to level up my software knowledge. I'm a firm believer in the power of continuous learning and staying on the cutting edge of tech.
 🌱 Always exploring new technologies and best practices in software development.
 
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" >
+
+
 Let's Talk! 💬 :
 
 I'm always up for a good chat about:
@@ -19,6 +22,8 @@ I'm always up for a good chat about:
 🖥️ Software development techniques
 
 🌟 Anything tech-related!
+
+
 
 Don't hesitate to reach out if you want to discuss these topics or collaborate on a project! 
 
